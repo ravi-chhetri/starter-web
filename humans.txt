@@ -3,9 +3,12 @@
 
 Hi, I am Ravi chhetri and learning git file before rebase
 
+
 # TEAM
 
     <name> -- <role> -- <twitter>
+LEvel III
+IT organization
 
 # THANKS
 thanks to all my master
